@@ -1,4 +1,5 @@
 # Customer Churn Prediction
+https://customer-churn-prediction-5vzn.onrender.com
 
 ## Project Description
 A complete end-to-end machine learning project that predicts whether a telecom customer will churn using SQL, Python, and Flask. Built on the Telco Customer Churn dataset, this project demonstrates a full data science pipeline from data storage to model deployment.
